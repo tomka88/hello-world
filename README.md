@@ -1,2 +1,6 @@
 # hello-world
-just another repo
+
+======================
+GitHub is awesome
+
+This README is finished now
